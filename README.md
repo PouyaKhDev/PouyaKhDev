@@ -83,7 +83,7 @@ Outside of coding, I enjoy reading books to expand my knowledge and playing ches
 
 ### 🌟 Strongest Skills (Focus)
 - Django & Django REST Framework  
-- Python backend development  
+- Problem Solving
 - HTMX & Alpine.js powered UIs  
 - API design and web app architecture
 
