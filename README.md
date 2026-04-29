@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a CS bachelor student and freelance full‑stack developer from Iran, with a strong focus on backend development.  
+I'm a CS student and freelance full‑stack developer from Iran, with a strong focus on backend development.  
 Over the last 2+ years, I've been building projects, APIs, and practical tools using Python, Django, and modern web technologies.
 
 I'm particularly interested in:
