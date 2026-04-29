@@ -108,9 +108,7 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
+  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
