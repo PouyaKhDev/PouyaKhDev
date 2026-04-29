@@ -107,24 +107,18 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=default#gh-light-mode-only" 
-    alt="Top Languages" 
-  />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=tokyonight#gh-dark-mode-only" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
   />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PouyaKhDev&theme=default#gh-light-mode-only" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PouyaKhDev&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PouyaKhDev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -133,12 +127,8 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=minimal#gh-light-mode-only"
-    alt="PouyaKhDev activity graph (light)"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=github-dark&area=true#gh-dark-mode-only"
-    alt="PouyaKhDev activity graph (dark)"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=github-dark&area=true"
+    alt="PouyaKhDev activity graph"
   />
 </p>
 
@@ -152,10 +142,3 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 💼 **Feel free to reach out for freelance work.**
 
 ---
-
-<div align="center">
-
-![PouyaKhDev activity graph – light](https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=minimal#gh-light-mode-only)
-![PouyaKhDev activity graph – dark](https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=github-dark&area=true#gh-dark-mode-only)
-
-</div>
