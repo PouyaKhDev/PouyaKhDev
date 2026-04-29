@@ -89,7 +89,7 @@ Outside of coding, I enjoy reading books to expand my knowledge and playing ches
 
 ---
 
-## 📌 Featured Project
+## 📌 Projects
 
 ### 🔹 [v2x](https://github.com/PouyaKhDev/v2x)
 
@@ -123,7 +123,10 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 ## 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&theme=github-dark&area=true&hide_border=true"
+    alt="PouyaKhDev's GitHub activity graph"
+  />
 </p>
 
 ---
