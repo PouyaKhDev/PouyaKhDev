@@ -107,15 +107,26 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=default" alt="GitHub stats" #gh-light-mode-only />
+  <img src="https://github-readme-stats.vercel.app/api?username=PouyaKhDev&show_icons=true&theme=tokyonight" alt="GitHub stats" #gh-dark-mode-only />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=default" 
+    alt="Top Languages" 
+    #gh-light-mode-only 
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PouyaKhDev&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    #gh-dark-mode-only 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PouyaKhDev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PouyaKhDev&theme=default" alt="GitHub Streak" #gh-light-mode-only />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PouyaKhDev&theme=tokyonight" alt="GitHub Streak" #gh-dark-mode-only />
 </p>
 
 ---
@@ -124,8 +135,14 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&theme=github-dark&area=true&hide_border=true"
-    alt="PouyaKhDev's GitHub activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=minimal"
+    alt="PouyaKhDev activity graph (light)"
+    #gh-light-mode-only
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PouyaKhDev&hide_border=true&theme=github-dark&area=true"
+    alt="PouyaKhDev activity graph (dark)"
+    #gh-dark-mode-only
   />
 </p>
 
