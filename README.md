@@ -102,6 +102,18 @@ The subscription files are automatically updated every **20 minutes**, keeping c
 - Periodic updates for subscription files  
 - Practical, real‑world utility for users of V2Ray‑based tools
 
+### 🔹 [E-commerce-API](https://github.com/PouyaKhDev/E-commerce-API)
+
+**Description:**  
+A robust, scalable, and fully containerized RESTful API designed to power modern e-commerce platforms. Built with **Django** and **Django REST Framework (DRF)**, this backend handles everything from user authentication and product catalog management to shopping cart operations. 
+
+**Highlights:**
+- 🔐 Secure Authentication: JWT-based authentication with role-based access control (Admin, Customer).
+- 📦 Product Catalog: Full CRUD operations for products and categories, including filtering, searching.
+- 🛒 Shopping Cart & Orders: Dynamic cart management and order history with status tracking.
+- 🐳 Dockerized Environment: Fully containerized with Docker and Docker Compose for consistent development and production environments.
+- 🧪 Comprehensive Testing: Unit test coverage using Django's SimpleTestCase and TestCase
+- 📝 Auto-Generated Docs: Interactive API documentation powered by drf-spectacular and Swagger.
 ---
 
 ## 📊 GitHub Stats
