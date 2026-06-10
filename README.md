@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:pouyakhajavidev@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/pouya-khajavi-dev/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pouya-khajavi-dev/">LinkedIn</a> •
   <a href="https://github.com/PouyaKhDev">GitHub</a>
 </p>
 
